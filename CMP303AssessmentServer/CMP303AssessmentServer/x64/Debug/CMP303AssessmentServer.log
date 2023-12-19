@@ -1,0 +1,4 @@
+﻿  Network.cpp
+C:\Users\Public\Documents\CMP303\Assessment\CMP303AssessmentServer\CMP303AssessmentServer\Network.cpp(302,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Public\Documents\CMP303\Assessment\CMP303AssessmentServer\CMP303AssessmentServer\Network.cpp(336,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CMP303AssessmentServer.vcxproj -> C:\Users\Public\Documents\CMP303\Assessment\CMP303AssessmentServer\x64\Debug\CMP303AssessmentServer.exe

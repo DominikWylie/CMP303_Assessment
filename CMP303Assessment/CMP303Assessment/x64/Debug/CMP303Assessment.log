@@ -1,0 +1,13 @@
+﻿  Enemy.cpp
+C:\Users\Public\Documents\CMP303\Assessment\CMP303Assessment\CMP303Assessment\Enemy.cpp(47,83): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Public\Documents\CMP303\Assessment\CMP303Assessment\CMP303Assessment\Enemy.cpp(47,80): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Public\Documents\CMP303\Assessment\CMP303Assessment\CMP303Assessment\Enemy.cpp(47,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Public\Documents\CMP303\Assessment\CMP303Assessment\CMP303Assessment\Enemy.cpp(47,44): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Public\Documents\CMP303\Assessment\CMP303Assessment\CMP303Assessment\Enemy.cpp(48,83): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Public\Documents\CMP303\Assessment\CMP303Assessment\CMP303Assessment\Enemy.cpp(48,80): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Public\Documents\CMP303\Assessment\CMP303Assessment\CMP303Assessment\Enemy.cpp(48,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Public\Documents\CMP303\Assessment\CMP303Assessment\CMP303Assessment\Enemy.cpp(48,44): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Game.cpp
+  main.cpp
+  Generating Code...
+  CMP303Assessment.vcxproj -> C:\Users\Public\Documents\CMP303\Assessment\CMP303Assessment\x64\Debug\CMP303Assessment.exe
