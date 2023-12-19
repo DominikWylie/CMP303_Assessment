@@ -17,6 +17,8 @@ void Network::init()
 	listener.setBlocking(false);
 	serverUdpSocket.setBlocking(false);
 
+	std::cout << "SFML Version: " << SFML_VERSION_MAJOR << "." << SFML_VERSION_MINOR << "." << SFML_VERSION_PATCH << std::endl;
+
 	listenForNewClients();
 }
 
